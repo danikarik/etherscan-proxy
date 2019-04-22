@@ -1,1 +1,1 @@
-# etherscan-proxy
+# Etherscan Proxy
